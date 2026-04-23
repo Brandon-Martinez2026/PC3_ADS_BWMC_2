@@ -16,5 +16,5 @@ else:
         grupo = "A"
     else:
         grupo = "B"
-
+        
 print(nombre ,"pertenece al grupo: ", grupo)
